@@ -1,0 +1,41 @@
+/* Navigation*/
+.navbar {
+    background-color: transparent;
+  }
+  .top-nav-collapse {
+    background-color: #34456a;
+  }
+  footer.page-footer {
+    background-color: #34456a;
+  }
+  @media only screen and (max-width: 768px) {
+    .navbar {
+      background-color: #34456a;
+    }
+  }
+  
+  /* Necessary for full page carousel*/
+  html,
+  body,
+  .view {
+    height: 100%;
+  }
+  
+  /* Carousel*/
+  .carousel,
+  .carousel-item,
+  .carousel-item.active {
+    height: 100%;
+  }
+  .carousel-inner {
+    height: 100%;
+  }
+  .carousel .carousel-item video {
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

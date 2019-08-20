@@ -1,0 +1,25 @@
+{
+  "name": "courseregistration",
+  "version": "1.0.0",
+  "description": "This Project Goal is Secure & Hassle Free Course Registration Sytem on Web",
+  "main": "index.php",
+  "scripts": {
+    "test": "Tanvir4x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanvir4x/Online-Course-Registration-System.git"
+  },
+  "keywords": [
+    "CourseRegistration",
+    "OnlineCourseRegistration",
+    "RegistrationSystem",
+    "Course"
+  ],
+  "author": "Tanvir Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tanvir4x/Online-Course-Registration-System/issues"
+  },
+  "homepage": "https://github.com/Tanvir4x/Online-Course-Registration-System#readme"
+}
