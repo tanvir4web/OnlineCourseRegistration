@@ -1,0 +1,2 @@
+# Online-Course-Registration-System
+ The project will be focused on developing an online course registration to ensure the effectiveness of the flow of hassle free course registration process .The registration process can be done online without the need of paperwork anymore. It is also help the student to get more information about the course process while they registration courses without stand by lines & registration anywhere.
