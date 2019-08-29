@@ -5,15 +5,15 @@ Objectives: An Online course registration System is maintained the registration 
 
 The system that being used will be detailed explained in below: <br>
 
-1.PHP
-2.Material Design Bootstrap
-3.JavaScript
-4.Mysql Database
-5.Ajax
+# 1.PHP
+# 2.Material Design Bootstrap
+# 3.JavaScript
+# 4.Mysql Database
+# 5.Ajax
 
 
 Goals : The project will be focused on developing an online course registration to ensure the effectiveness of the flow of hassle free course registration process .The registration process can be done online without the need of paperwork anymore. It is also help the student to get more information about the course process while they registration courses without stand by lines & registration anywhere.
 
 
 
-Request For SQL File Via Email: TanvirBDsoft@gmail.com
+# Request For SQL File Via Email: TanvirBDsoft@gmail.com
