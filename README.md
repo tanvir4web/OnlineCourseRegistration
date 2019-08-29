@@ -3,7 +3,7 @@
 
 Objectives: An Online course registration System is maintained the registration flow for the Teacher and Student by provide capability to maintain the registration ability.Teacher can add, update, or delete the content of this system & Student Can Select Course For Registration. Almost all web based programming language support the capability to make online registration,we use PHP to build this Course Registration system.
 
-The system that being used will be detailed explained in below:
+The system that being used will be detailed explained in below: <br>
 
 1.PHP
 2.Material Design Bootstrap
