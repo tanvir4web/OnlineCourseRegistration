@@ -53,7 +53,6 @@
       <!-- Collapsible content -->
     </nav>
     <!--/.Navbar-->
-
     <!--Carousel Wrapper-->
     <div
       id="carousel-example-2"
